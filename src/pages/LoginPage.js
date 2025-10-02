@@ -1,3 +1,13 @@
+/**
+ * Project: Online English Learning Website with AI
+ * File: LoginPage.js
+ * Description: Trang đăng nhập – xác thực người dùng, nhập tên đăng nhập/email và mật khẩu, chuyển hướng sau khi đăng nhập thành công.
+ * Author: Đàm Hưng
+ * Copyright: (c) 2025 Đàm Hưng, Group 6
+ * License: MIT
+ * Version: 1.0.0
+ */
+
 // client/src/pages/LoginPage.js
 import React, { useState } from 'react';
 import axios from 'axios';
@@ -69,5 +79,6 @@ const LoginPage = () => {
         </div>
     );
 };
+
 
 export default LoginPage;
