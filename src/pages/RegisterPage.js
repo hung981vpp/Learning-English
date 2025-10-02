@@ -1,3 +1,12 @@
+/**
+ * Project: Online English Learning Website with AI
+ * File: RegisterPage.js
+ * Description: Trang đăng ký – cho phép người dùng tạo tài khoản mới với họ tên, tên đăng nhập, email và mật khẩu.
+ * Author: Đàm Hưng
+ * Copyright: (c) 2025 Đàm Hưng, Group 6
+ * License: MIT
+ * Version: 1.0.0
+ */
 // client/src/pages/RegisterPage.js
 import React, { useState } from 'react';
 import axios from 'axios';
@@ -101,5 +110,6 @@ const RegisterPage = () => {
         </div>
     );
 };
+
 
 export default RegisterPage;
