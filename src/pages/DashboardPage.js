@@ -1,7 +1,7 @@
 /**
  * Project: Online English Learning Website with AI
- * File: HomePage.js
- * Description: Trang chủ - giao diện giới thiệu tổng quan và CTA cho học viên.
+ * File: DashboardPage.js
+ * Description: Trang Dashboard - quản lý các khóa học của người dùng, hiển thị thông tin cá nhân và thao tác chính.
  * Author: Đàm Hưng
  * Copyright: (c) 2025 Đàm Hưng, Group 6
  * License: MIT
@@ -108,3 +108,4 @@ const DashboardPage = () => {
 
 
 export default DashboardPage;
+
