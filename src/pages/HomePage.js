@@ -1,3 +1,12 @@
+/**
+ * Project: Online English Learning Website with AI
+ * File: HomePage.js
+ * Description: Trang chủ - giao diện giới thiệu tổng quan, thông điệp AI và kêu gọi hành động cho người học.
+ * Author: Đàm Hưng
+ * Copyright: (c) 2025 Đàm Hưng, Group 6
+ * License: MIT
+ * Version: 1.0.0
+ */
 // client/src/pages/HomePage.js
 import React from 'react';
 import './HomePage.css'; // Import file CSS vừa tạo
@@ -25,5 +34,6 @@ const HomePage = () => {
         </div>
     );
 };
+
 
 export default HomePage;
