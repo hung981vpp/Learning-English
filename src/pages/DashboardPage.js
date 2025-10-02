@@ -1,3 +1,12 @@
+/**
+ * Project: Online English Learning Website with AI
+ * File: HomePage.js
+ * Description: Trang chủ - giao diện giới thiệu tổng quan và CTA cho học viên.
+ * Author: Đàm Hưng
+ * Copyright: (c) 2025 Đàm Hưng, Group 6
+ * License: MIT
+ * Version: 1.0.0
+ */
 // client/src/pages/DashboardPage.js
 import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
@@ -96,5 +105,6 @@ const DashboardPage = () => {
         </div>
     );
 };
+
 
 export default DashboardPage;
